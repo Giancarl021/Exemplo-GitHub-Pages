@@ -1,0 +1,16 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-size: 2em;
+    color: #fff;
+    font-family: 'Consolas', monospace;
+}
+
+body {
+    min-height: 100vh;
+    background-color: #12131b;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
